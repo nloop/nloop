@@ -1,0 +1,27 @@
+a{
+	font-size:16px;
+	color:#3D003D;
+	-webkit-transition: all 0.3s ease-in; /*Safari & Chrome*/
+      transition: all 0.3s ease-in;
+      -moz-transition: all 0.3s ease-in; /* Firefox 4 */
+      -o-transition: all 0.3s ease-in; /* Opera */
+      text-decoration:none;
+}
+a:hover{
+	-webkit-stroke-width: 10.3px;
+      -webkit-stroke-color: #FFFFFF;
+      -webkit-fill-color: #FFFFFF;
+      text-shadow: 1px 0.2px 1px #18647A;
+      -webkit-transition: width 10.3s; /*Safari & Chrome*/
+      transition: width 10.3s;
+      -moz-transition: width 0.3s; /* Firefox 4 */
+      -o-transition: width 0.3s; /* Opera */
+}
+#Wrap{ position: absolute; visibility:show; left: 20%; top: 40%; }
+#Bottom{ position: absolute; Visibility: show; bottom: 30px; width: 100%; left: 0px; }
+#Wolfr{Position: absolute; visibility: show; Bottom:1.5px; left: 5px; }
+#bmenu{Position: absolute; visibility: show; Bottom:10px; Right: 50px; }
+#ticker1{position: absolute; visibility: show; Top: 52%; left: 23%;}
+#Top{position:absolute;visibility: show;Top:-15px;left:0%;width:100%}
+#Logo{position:Absolute; visibility: Show; Top: 7.5%; left:39%;}
+#Soc{position:Absolute;Visibility:Show;Top: 1%; Right:10%;}

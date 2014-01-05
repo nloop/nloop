@@ -1,0 +1,86 @@
+body{
+	margin: 0 auto;
+	background: url("images/login_bg.jpg") no-repeat fixed center top transparent;
+	font-family: verdana;
+}
+#top{
+ background:#B85503 none repeat scroll 0 0;
+    border-top:1px solid #C3702C;
+    bottom:0;
+    padding:12px 0;
+    width:100%;
+    z-index:100;
+	margin-bottom:25px;
+}
+#top .center{
+	margin: 0 auto;
+	width: 960px;
+}
+#top .center form{
+	text-align:center;
+	color: white;
+}
+
+#top .center input{
+	border:none;
+	width:65%;
+	height: 25px;
+	-moz-border-radius: 5px;
+	-border-radius: 5px;
+	-webkit-border-radius: 5px;
+
+}
+
+
+#wrapper{
+	margin: 0 auto;
+	width:960px;
+	position:relative;
+}
+#container{
+	margin-top:50px;
+	border: 1px solid blue;
+	-moz-border-radius: 5px;
+	-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	float:left;
+	background:#F5F5F5;
+	margin-bottom:70px;
+	width: 960px;
+}
+
+#tweets{
+	width:920px;
+	margin:10px;
+	padding:10px;
+	border:1px solid gray;
+	-moz-border-radius: 5px;
+	-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	float:left;
+}
+#tweets p{
+	float:left;
+	font-size:9px;
+}
+#tweets .avatar{
+	float:left;
+	margin:10px;
+}
+#twitcont{
+	float:left;
+}
+
+.content{
+	float:left;
+	font-size:15px;
+	width: 90%;
+	color: gray;
+}
+.time{
+	color: orange;
+}
+.name{
+	color: brown;
+	font-weight: bold;
+}

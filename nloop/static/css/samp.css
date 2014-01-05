@@ -1,0 +1,111 @@
+#tweets{
+	width:85%;
+	margin:10px;
+	padding:10px;
+	border:1px solid gray;
+	-moz-border-radius: 5px;
+	-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	float:left;
+}
+#tweets p{
+	float:left;
+	font-size:9px;
+}
+#tweets .avatar{
+	float:left;
+	margin:10px;
+	border:1px solid black;
+}
+#twitcont{
+	float:left;
+}
+
+.content{
+	float:left;
+	font-size:15px;
+	width: 90%;
+	color: gray;
+}
+.time{
+	color: orange;
+}
+.name{
+	color: brown;
+	font-weight: bold;
+}
+.ex
+{
+background: rgba(255, 255, 255, .2);
+-moz-box-shadow: 0 0 7px #8c1116;
+-webkit-box-shadow: 0 0 7px#8c1116;
+box-shadow:0 0 7px #8c1116;
+margin-bottom:15px;
+max-width: 620px;
+position: relative;
+height: 600px;
+width:100%;
+border: 1px solid #8c1116;
+overflow-y:scroll;
+overflow-x:hidden;
+}
+.ex1
+{
+background: rgba(255, 255, 255, .2);
+-moz-box-shadow: 0 0 7px #0e799c;
+-webkit-box-shadow: 0 0 7px #0e799c;
+box-shadow: 0 0 10px #0e799c;
+margin-bottom:15px;
+max-width: 620px;
+position: relative;
+height: 600px;
+width:100%;
+border: 1px solid #0e799c;
+overflow-y:scroll;
+overflow-x:hidden;
+
+}
+.ex2
+{
+background: rgba(255, 255, 255, .2);
+-moz-box-shadow: 0 0 7px #3d3d3d;
+-webkit-box-shadow: 0 0 7px #3d3d3d;
+box-shadow: 0 0 7px #3d3d3d;
+margin-bottom:15px;
+max-width: 620px;
+position: relative;
+height: 600px;
+width:100%;
+border: 1px solid #848484;
+overflow-y:scroll;
+overflow-x:hidden;
+}
+.ex3
+{
+background: rgba(255, 255, 255, .2);
+-moz-box-shadow: 0 0 7px #c63000;
+-webkit-box-shadow: 0 0 7px #c63000;
+box-shadow: 0 0 7px #c63000;
+margin-bottom:15px;
+max-width: 620px;
+position: relative;
+height: 300px;
+width:100%;
+border: 1px solid #c63000;
+overflow-y:scroll;
+overflow-x:hidden;
+}
+.exA{
+background: #85c592;
+-moz-box-shadow: inset 0 0 7px #0f6b23;
+-webkit-box-shadow: inset 0 0 7px #0f6b23;
+box-shadow: inset 0 1px 10px #0c321f;
+margin-bottom:15px;
+max-width: 620px;
+position: relative;
+height: 300px;
+width:100%;
+border: 1px solid black;
+}
+#Wrap{ position: absolute; visibility:show; left: 18%; top: 4%; }
+#TpHr{position:absolute; visibility:show;top:13%;width:100%; }

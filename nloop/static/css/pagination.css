@@ -1,0 +1,61 @@
+.exW{
+background: rgba(255, 255, 255, .2);
+-moz-box-shadow: 0 0 7px #8c1116;
+-webkit-box-shadow: 0 0 7px#8c1116;
+box-shadow:0 0 7px #8c1116;
+margin-bottom:15px;
+max-width: 620px;
+position: relative;
+height: 600px;
+width:100%;
+border: none;
+}
+.exE{
+background: rgba(255, 255, 255, .2);
+-moz-box-shadow: 0 0 7px #848484;
+-webkit-box-shadow: 0 0 7px #848484;
+box-shadow: 0 0 7px #848484;
+margin-bottom:15px;
+max-width: 620px;
+position: relative;
+height: 600px;
+width:100%;
+border: none;
+}
+.exT{
+background: rgba(255, 255, 255, .2);
+-moz-box-shadow: 0 0 7px #0e799c;
+-webkit-box-shadow: 0 0 7px #0e799c;
+box-shadow: 0 0 7px #0e799c;
+margin-bottom:15px;
+max-width: 620px;
+position: relative;
+height: 600px;
+width:100%;
+border: none;
+}
+.exD{
+background: rgba(255, 255, 255, .2);
+-moz-box-shadow: 0 0 7px #c63000;
+-webkit-box-shadow: 0 0 7px #c63000;
+box-shadow: 0 0 7px #c63000;
+margin-bottom:15px;
+max-width: 620px;
+position: relative;
+height: 300px;
+width:100%;
+border: none;
+}
+.exA{
+background: #6caa79;
+-moz-box-shadow: 0 0 7px #0f6b23;
+-webkit-box-shadow: 0 0 7px #0f6b23;
+box-shadow: 0 0 7px #01320c;
+margin-bottom:15px;
+max-width: 620px;
+position: relative;
+height: 300px;
+width:100%;
+border: none;
+}
+
